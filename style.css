@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+.bg-primary {
+    background-color: #010101 !important;
+}
+
+.primary {
+    color: #010101 !important;
+}
+
+.nav-item {
+    font-style: normal;
+    font-weight: 800;
+/*
+    font-size: 21px;
+*/
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    padding: 0 2rem !important;
+    color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+    opacity: 80%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}

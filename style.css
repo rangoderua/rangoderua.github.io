@@ -75,6 +75,11 @@
     border-bottom: 25px solid transparent;
 }
 
+.rango-img {
+    width: 100%;
+    max-width: 400px;
+}
+
 body {
     font-family: 'Lato', sans-serif;
     color: #000000;

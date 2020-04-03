@@ -57,7 +57,7 @@
     font-size: 45px;
 }
 
-.img {
+.ratio {
     background: #000000;
     min-width: 300px;
     position: relative;
@@ -65,12 +65,10 @@
     padding-top: 56.25%;
 }
 
-.triangle {
+.video-frame {
     position: absolute;
-    top: calc(50% - 25px);
-    border-top: 25px solid transparent;
-    border-left: 50px solid red;
-    border-bottom: 25px solid transparent;
+    top: 0;
+    height: 100%;
 }
 
 .rango-img {
